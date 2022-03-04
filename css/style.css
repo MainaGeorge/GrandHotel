@@ -217,5 +217,9 @@ body {
     transform: rotate(405deg) translate(-5px, -6px);
     width: 2.5rem;
 }
+
+.header{
+    margin-left: 8rem;
+}
 /* end of navigation */
 /* end of navbar */
